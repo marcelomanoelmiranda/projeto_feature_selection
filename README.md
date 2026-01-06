@@ -1,7 +1,7 @@
-# Classificação de Imagens de Resíduos usando Deep Learning
+# Classificação de Variedades de trigo utilizando Feature Selection
 
 ## 📌 Visão Geral do Projeto
-Este projeto tem como foco a **classificação de diferentes variedades de trigo utilizando técnicas de machine learning**, com o objetivo de apoiar processos de separação e otimização de grãos trigo de inteligência artificial.
+Este projeto tem como foco a **classificação de diferentes variedades de trigo utilizando técnicas de feature selection e de machine learning**, com o objetivo de apoiar processos de separação e otimização de grãos trigo de inteligência artificial.
 
 O estudo avalia e compara o desempenho de diferentes **arquiteturas de aprendizado de máquina** aplicadas a tarefas de classificação e otimização de dados de diferentes tipos de grão, utilizando um conjunto de dados seeds_dataset.txt.
 
