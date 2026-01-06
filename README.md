@@ -61,7 +61,7 @@ O dataset contém dados de diferentes variedades de trigo separados e classifica
 ## 🔗 Recursos do Projeto
 
 ### 🧩 Pipeline (Git e Github)
-https://github.com/marcelomanoelmiranda/projeto_feature_selection/blob/7d46a8a3e4091993ad7951bfd380ad3716b4a78e/projeto_final_feature_selection.ipynb
+https://github.com/marcelomanoelmiranda/projeto_feature_selection/blob/a8c231ada4bd58b4917e397f68c22220d9f75568/atividade_final_feature_selection.ipynb
 
 
 ---
