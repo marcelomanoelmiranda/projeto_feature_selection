@@ -1,9 +1,9 @@
 # Classificação de Variedades de trigo utilizando Feature Selection
 
 ## 📌 Visão Geral do Projeto
-Este projeto tem como foco a **classificação de diferentes variedades de trigo utilizando técnicas de feature selection e de machine learning**, com o objetivo de apoiar processos de separação e otimização de grãos trigo de inteligência artificial.
+Este projeto tem como foco a **classificação de diferentes variedades de trigo utilizando técnicas de feature selection e de machine learning**, com o objetivo de apoiar processos de separação e otimização de grãos trigo utilizando técnicas de algoritmo genérico e PSO.
 
-O estudo avalia e compara o desempenho de diferentes **arquiteturas de aprendizado de máquina** aplicadas a tarefas de classificação e otimização de dados de diferentes tipos de grão, utilizando um conjunto de dados seeds_dataset.txt.
+O estudo avalia e compara o desempenho de diferentes **arquiteturas de aprendizado de máquina** aplicadas a tarefas de classificação e otimização de dados de diferentes tipos de grão, utilizando o conjunto de dados seeds_dataset.txt.
 
 Este projeto foi desenvolvido como parte do **Curso de Pós-Graduação em Ciência de Dados**.
 
@@ -19,9 +19,9 @@ Este projeto foi desenvolvido como parte do **Curso de Pós-Graduação em Ciên
 
 ## 🧠 Modelos e Arquiteturas
 As seguintes arquiteturas de machine learning pré-treinadas foram utilizadas e avaliadas:
-- **RandForest**
-- **LogReg**
-- **DecTree**
+- **Random Forest**
+- **Regressão Logística**
+- **Árvores de Decisão**
 
 Foram utilizadas técnicas de **Algoritmo Genético (GA)** e **Otimização por Enxame de Partículas (PSO)**  para seleção de caracteristicas do treinamento.
 
